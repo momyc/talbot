@@ -1,0 +1,12 @@
+.env
+.env.*
+history/
+
+__pycache__/
+
+# virtualenv files
+pyvenv.cfg
+bin/
+include/
+lib/
+share/
